@@ -38,4 +38,10 @@ Follow these steps to get started with the Weather SMS Notifier:
 
    ```bash
    pip install requests twilio
+2. Replace the details Recipient's Phone Number,Twilio Phone Number,API Key and Tokens  with your actual API keys and phone number.
+   
+3. Run the script:
+   ```bash
+   python weather_sms_notifier.py
+
 
