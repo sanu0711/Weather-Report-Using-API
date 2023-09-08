@@ -1,4 +1,3 @@
-# Weather-Report
 # Weather SMS Notifier
 
 A Python script that fetches current weather information using the OpenWeather API and sends it as an SMS using Twilio.
@@ -35,8 +34,8 @@ Before you can use this project, ensure you have the following prerequisites:
 
 Follow these steps to get started with the Weather SMS Notifier:
 
-1. Clone the repository to your local machine:
+1. Install the required Python packages:
 
    ```bash
-   git clone https://github.com/yourusername/weather-sms-notifier.git
-   cd weather-sms-notifier
+   pip install requests twilio
+
